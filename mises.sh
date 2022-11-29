@@ -1,14 +1,6 @@
 #!/bin/bash
 clear
-echo "==================================================================="
-echo -e "\e[92m"
-echo  "  __           __     __           __    __    ___ 
-echo  "  |__) |    /     \  /      \_/  |_    |__)    _/ 
-echo  "  |__) |__ \__/  \__.  / \  |__   | \    /__ 
-echo  "                                                                       
-echo -e "\e[0m"
-echo "===================================================================" 
-
+ 
 echo -e '\e[36mGarapan :\e[39m' Mises Mainnet
 echo -e '\e[36mTelegram Group :\e[39m' @hydira_crypto
 echo -e '\e[36mTelegram Channel :\e[39m' @hydira_crypto
